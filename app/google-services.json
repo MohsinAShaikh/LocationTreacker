@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431515529061",
+    "firebase_url": "https://locationtreacker.firebaseio.com",
+    "project_id": "locationtreacker",
+    "storage_bucket": "locationtreacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431515529061:android:e9f9e022110a2886",
+        "android_client_info": {
+          "package_name": "com.sam.locationtreacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431515529061-3kgsir6oem8p6t5vucli40ppqqf6a0pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam.locationtreacker",
+            "certificate_hash": "25c43c841409ffeca148951a7e48ac1d25cb6820"
+          }
+        },
+        {
+          "client_id": "431515529061-72fjoa90bge55olci417hu576u9cago9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYj5ncSfuKZyf9_pU51WUA3XVAx1BZ_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431515529061-72fjoa90bge55olci417hu576u9cago9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
